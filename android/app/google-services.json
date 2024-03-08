@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223459765519",
+    "project_id": "wordologyapp-a6698",
+    "storage_bucket": "wordologyapp-a6698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223459765519:android:00c43bfe352c8b82a6a27a",
+        "android_client_info": {
+          "package_name": "com.codingminds.wordology_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfZj1iwOoCDob_poSg0uUNF1G0H-7joc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
